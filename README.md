@@ -24,3 +24,8 @@
     *   Split train/test sets for model comparison
     *   Normal Classification Models (Xgboost, SVM, Rigid Classifier)
     *   Pre-trained Model - BERT
+    
+# Files
+
+*   Code_final_submission.ipynb: Final submitted code for evaluation
+*   BERT_2.ipynb: Pruning parameters such as epoch for BERT model
