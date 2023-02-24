@@ -29,3 +29,4 @@
 
 *   Code_final_submission.ipynb: Final submitted code for evaluation
 *   BERT_2.ipynb: Pruning parameters such as epoch for BERT model
+*   predictions.csv: submission solution
