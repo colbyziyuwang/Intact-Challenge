@@ -10,7 +10,7 @@
 
 *   Intact's claims department receives thousands of documents every day. Among these are medical documents, as Intact provides compensation to those who have sustained injuries in automobile accidents. Due to the volume of data received on a daily basis, it is difficult to keep every document neatly organized for easy retrieval. Thus, it would be helpful to have a system that automatically makes sense of the content of the document and can classify it into one of a set number of categories.
 
-*   Our group classifies each medical transcription to a medical specialty
+*   Our group classifies each medical transcription into a medical specialty
 
 *   The evaluation is based on F1-score with macro averaging on the test set
 
